@@ -117,4 +117,16 @@ html {
     font-size: 2rem;
     color: white;
   }
+  .timer__controls form {
+    flex: 1;
+    display: flex;
+  }
+  
+  .timer__controls input {
+    flex: 1;
+    border: 0;
+    padding: 0%;
+    width: 88px;
+  }
+  
 }
